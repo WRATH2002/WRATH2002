@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himadri Purkait</h1>
-<h3 align="center">I am a CSE student.</h3>
-<h3 align="center">I am a passionate Frontend Web Developer</h3>
+<h3 align="center">Technology Enthusiast CSE student.</h3>
+<h3 align="center">A passionate Frontend Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wrath2002&label=Profile%20views&color=0e75b6&style=flat" alt="wrath2002" /> </p>
 
